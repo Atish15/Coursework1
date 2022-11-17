@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CW1.iml" filepath="$PROJECT_DIR$/.idea/CW1.iml" />
+      <module fileurl="file://F:/2nd_year_mdx_course/wenapp/ecom/Ecom/.idea/Ecom.iml" filepath="F:/2nd_year_mdx_course/wenapp/ecom/Ecom/.idea/Ecom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Computer-Graphics/Week6/.idea/Week6.iml" filepath="$PROJECT_DIR$/../../Computer-Graphics/Week6/.idea/Week6.iml" />
+      <module fileurl="file://$USER_HOME$/WebstormProjects/untitled/.idea/untitled.iml" filepath="$USER_HOME$/WebstormProjects/untitled/.idea/untitled.iml" />
+    </modules>
+  </component>
+</project>
